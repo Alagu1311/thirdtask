@@ -1,0 +1,43 @@
+///ALAGUPANDI RESUME
+
+  [{
+    "NAME": "ALAGUPANDI S",
+      "E-MAIL":"alagu3573@gmail.com",
+      "MOBILE":"8428828260",
+    },
+    ///QUALIFACTION
+    
+        {
+          "DEGREE": "B.E MECHANICAL ENGINEERING",
+          "INSTITUTION": "SBM COLLEGE OF ENGG AND TECHNOLOGY",
+          "YEAR OF PASSING ": "2022",
+          "PERCENTAGE/CGPA": "8.5"
+        },
+        {
+          "SCHOOLING": "HSC",
+          "INSTITUTION": "BLESSING MATRIC HR SEC SCHOOL",
+          "YEAR OF PASSING": "2018",
+          "PERCENTAGE/CGPA": "70.5"
+        },
+        {
+          "SCHOOLING": "SSLC",
+          "INSTITUTION": "PKN HR SEC SCHOOL",
+          "YEAR OF PASSING": "2016",
+          "PERCENTAGE/CGPA": "76.3"
+          
+        },
+        ///PERSONAL INFORMATION
+ {
+
+    
+        "FATHERS NAME":"R.SURESH",
+        "D.O.B":"13-11-2000",
+        "HOBBIES":"LISTING MUSIC,READING BOOKS",
+        "ADREES":"4/378 VADIVEL NAGAR ,MAVUMILL,NAGAMALAI,MADURAI-625004"
+ }
+]
+        
+        
+        
+
+
